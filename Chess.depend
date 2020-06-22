@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1589550158 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\main.cpp
+	<iostream>
+	<fstream>
+	"chess.h"
+
+1589473279 c:\users\tejas\desktop\sem 6\oopd\project\chess\chess.h
+	<string.h>
+
+1589455181 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\chess.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"chess.h"
+
+1589449327 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\spot.cpp
+	<iostream>
+	"chess.h"
+
+1589450522 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\piece.cpp
+	<iostream>
+	"chess.h"
+
+1589549147 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\board.cpp
+	<iostream>
+	"chess.h"
+
+1589543921 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\player.cpp
+	<iostream>
+	"chess.h"
+
+1589551327 source:c:\users\tejas\desktop\sem 6\oopd\project\chess\movement.cpp
+	<iostream>
+	<string>
+	"chess.h"
+

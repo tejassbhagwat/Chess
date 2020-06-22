@@ -1,0 +1,93 @@
+
+
+Game: Magnus Carlsen(White) vs Vishwanathan Anand(Black)
+
+f2-f3 e7-e5
+g2-g4 d8-h4
+Result: 0-1 
+Checkmate : Vishwanathan Anand Won!
+
+
+
+Game: Anish Giri(White) vs Maxime Vachier Lagrave(Black)
+
+e2-e4 e7-e5
+f1-c4 b8-c6
+d1-h5 g8-f6
+h5-f7 
+Result: 1-0 
+Checkmate : Anish Giri Won!
+
+
+
+Game: Ding Liren(White) vs Alexander Grishchuk(Black)
+
+e2-e3 a7-a5
+d1-h5 a8-a6
+h5-a5 h7-h5
+h2-h4 a6-h6
+a5-c7 f7-f6
+c7-d7 e8-f7
+d7-b7 d8-d3
+b7-b8 d3-h7
+b8-c8 f7-g6
+c8-e6 
+Result: 1/2 - 1/2 
+Draw by Stalemate
+
+
+
+Game: Player 1(White) vs Player 2(Black)
+
+e2-e4 c7-c5
+g1-f3 b8-c6
+f1-b5 
+Result : 1/2 - 1/2 
+Draw by Agreement
+
+Game: Vishwanathan Anand(White) vs Ian Nepomniachtchi(Black)
+
+d2-d4 g8-f6
+c2-c4 g7-g6
+b1-c3 d7-d5
+c4-d5 f6-d5
+c1-d2 f8-g7
+e2-e4 d5-c3
+d2-c3 c7-c5
+d4-d5 g7-c3
+b2-c3 d8-d6
+d1-d2 e8-g8
+f2-f4 e7-e6
+g1-f3 e6-d5
+f1-c4 c8-e6
+e1-g1 d5-d4
+f4-f5 e6-c4
+e4-e5 d6-d7
+f5-f6 c4-f1
+d2-h6 g8-h8
+h6-g7 
+Result: 1-0 
+Checkmate : Vishwanathan Anand Won!
+
+
+
+Game: Player 1(White) vs Player 2(Black)
+
+e2-e4 c7-c6
+d2-d4 d7-d5
+b1-c3 d5-e4
+c3-e4 b8-d7
+d1-e2 g8-f6
+e4-d6 
+Result: 1-0 
+Checkmate :  Won!
+
+
+
+Game: Player 3(White) vs Player 4(Black)
+
+f2-f3 e7-e5
+g2-g4 d8-h4
+Result: 0-1 
+Checkmate : Player 4 Won!
+
